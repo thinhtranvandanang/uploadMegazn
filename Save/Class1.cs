@@ -8,5 +8,6 @@ namespace Save
 {
     internal class Class1
     {
+        // mới edit
     }
 }
